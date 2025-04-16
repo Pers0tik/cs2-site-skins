@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CS2 лучшие скины — ножи, оружие и кейсы с ценами. Покупай скины и зарабатывай с реферальной ссылкой!">
+    <meta name="keywords" content="CS2, скины, ножи, кейсы, оружие, купить, продать, трейд">
+    <title>CS2 Skins Shop — Лучшие ножи и оружие</title>
+    <style>
+        body {
+            background: #121212;
+            color: #eee;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #00ffc6;
+        }
+        .skin {
+            background: #1e1e1e;
+            margin: 15px auto;
+            border-radius: 12px;
+            padding: 15px;
+            width: 300px;
+            box-shadow: 0 0 10px #00ffc655;
+        }
+        .skin img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        .price {
+            font-size: 18px;
+            color: #00ffc6;
+        }
+        .buy {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background: #00ffc6;
+            color: #121212;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .buy:hover {
+            background: #00bfa5;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🔥 CS2 Skins Shop 🔥</h1>
+
+    <div class="skin">
+        <h3>Karambit | Fade</h3>
+        <img src="https://skinsjar.com/storage/skins/karambit-fade.png" alt="Karambit Fade">
+        <p class="price">$1,500</p>
+        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
+    </div>
+
+    <div class="skin">
+        <h3>Butterfly Knife | Doppler</h3>
+        <img src="https://skinsjar.com/storage/skins/butterfly-doppler.png" alt="Butterfly Knife Doppler">
+        <p class="price">$1,200</p>
+        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
+    </div>
+
+    <div class="skin">
+        <h3>AK-47 | Fire Serpent</h3>
+        <img src="https://skinsjar.com/storage/skins/ak47-fire-serpent.png" alt="AK-47 Fire Serpent">
+        <p class="price">$600</p>
+        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
+    </div>
+
+    <div class="skin">
+        <h3>AWP | Dragon Lore</h3>
+        <img src="https://skinsjar.com/storage/skins/awp-dragon-lore.png" alt="AWP Dragon Lore">
+        <p class="price">$3,500</p>
+        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
+    </div>
+
+    <div class="skin">
+        <h3>Revolution Case</h3>
+        <img src="https://wiki.cs.money/images/RevolutionCase.png" alt="Revolution Case">
+        <p class="price">$3.50</p>
+        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
+    </div>
+
+</body>
+</html>
