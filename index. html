@@ -1,93 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="google-site-verification" content="smob0z_bfB-O1RA-bN-SA1-N12CeXGD3YQdcwbR-o_A" />
+    <meta name="google-site-verification" content="smob0z_bfB-O1RA-bN-SA1-N12CeXGD3YQdcwbR-o_A" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="CS2 лучшие скины — ножи, оружие и кейсы с ценами. Покупай скины и зарабатывай с реферальной ссылкой!">
-    <meta name="keywords" content="CS2, скины, ножи, кейсы, оружие, купить, продать, трейд">
-    <title>CS2 Skins Shop — Лучшие ножи и оружие</title>
+    <title>CS2 Skins Store</title>
     <style>
         body {
-            background: #121212;
-            color: #eee;
+            background: #0e0e0e;
+            color: #fff;
             font-family: Arial, sans-serif;
             text-align: center;
             margin: 0;
             padding: 20px;
         }
         h1 {
-            color: #00ffc6;
+            color: #00ffcc;
         }
-        .skin {
-            background: #1e1e1e;
-            margin: 15px auto;
-            border-radius: 12px;
+        h2 {
+            margin-top: 40px;
+            color: #00ccff;
+        }
+        .item {
+            border: 1px solid #222;
             padding: 15px;
-            width: 300px;
-            box-shadow: 0 0 10px #00ffc655;
+            margin: 20px auto;
+            max-width: 400px;
+            background: #1a1a1a;
+            border-radius: 10px;
         }
-        .skin img {
+        img {
             width: 100%;
             border-radius: 8px;
         }
-        .price {
-            font-size: 18px;
-            color: #00ffc6;
-        }
-        .buy {
+        .btn {
             display: inline-block;
             margin-top: 10px;
             padding: 10px 20px;
-            background: #00ffc6;
-            color: #121212;
-            border-radius: 8px;
+            background: #00ffcc;
+            color: #000;
+            border-radius: 5px;
             text-decoration: none;
-            font-weight: bold;
+            transition: 0.3s;
         }
-        .buy:hover {
-            background: #00bfa5;
+        .btn:hover {
+            background: #00cc99;
         }
     </style>
 </head>
 <body>
 
-    <h1>🔥 CS2 Skins Shop 🔥</h1>
+<h1>🔥 Best CS2 Skins & Cases 🔥</h1>
 
-    <div class="skin">
-        <h3>Karambit | Fade</h3>
-        <img src="https://skinsjar.com/storage/skins/karambit-fade.png" alt="Karambit Fade">
-        <p class="price">$1,500</p>
-        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
-    </div>
+<h2>🗡️ Knives</h2>
+<div class="item">
+    <p>Karambit | Doppler</p>
+    <img src="https://csgostash.com/storage/img/skin_sideview/588.png" alt="Karambit Doppler">
+    <a class="btn" href="#">Buy Now</a>
+</div>
 
-    <div class="skin">
-        <h3>Butterfly Knife | Doppler</h3>
-        <img src="https://skinsjar.com/storage/skins/butterfly-doppler.png" alt="Butterfly Knife Doppler">
-        <p class="price">$1,200</p>
-        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
-    </div>
+<div class="item">
+    <p>Butterfly Knife | Fade</p>
+    <img src="https://csgostash.com/storage/img/skin_sideview/416.png" alt="Butterfly Knife Fade">
+    <a class="btn" href="#">Buy Now</a>
+</div>
 
-    <div class="skin">
-        <h3>AK-47 | Fire Serpent</h3>
-        <img src="https://skinsjar.com/storage/skins/ak47-fire-serpent.png" alt="AK-47 Fire Serpent">
-        <p class="price">$600</p>
-        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
-    </div>
+<h2>🔫 Weapons</h2>
+<div class="item">
+    <p>AK-47 | Fire Serpent</p>
+    <img src="https://csgostash.com/storage/img/skin_sideview/180.png" alt="AK-47 Fire Serpent">
+    <a class="btn" href="#">Buy Now</a>
+</div>
 
-    <div class="skin">
-        <h3>AWP | Dragon Lore</h3>
-        <img src="https://skinsjar.com/storage/skins/awp-dragon-lore.png" alt="AWP Dragon Lore">
-        <p class="price">$3,500</p>
-        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
-    </div>
+<div class="item">
+    <p>AWP | Dragon Lore</p>
+    <img src="https://csgostash.com/storage/img/skin_sideview/228.png" alt="AWP Dragon Lore">
+    <a class="btn" href="#">Buy Now</a>
+</div>
 
-    <div class="skin">
-        <h3>Revolution Case</h3>
-        <img src="https://wiki.cs.money/images/RevolutionCase.png" alt="Revolution Case">
-        <p class="price">$3.50</p>
-        <a class="buy" href="https://dmarket.com?ref=5vSFQ6H8OQ" target="_blank">Buy Now</a>
-    </div>
+<h2>🎁 Cases</h2>
+<div class="item">
+    <p>Recoil Case</p>
+    <img src="https://csgostash.com/storage/img/skin_sideview/1147.png" alt="Recoil Case">
+    <a class="btn" href="#">Buy Now</a>
+</div>
+
+<div class="item">
+    <p>Fracture Case</p>
+    <img src="https://csgostash.com/storage/img/skin_sideview/1024.png" alt="Fracture Case">
+    <a class="btn" href="#">Buy Now</a>
+</div>
 
 </body>
 </html>
+
